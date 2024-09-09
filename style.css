@@ -1,0 +1,29 @@
+h1{
+    color: red;
+}
+
+.city{
+    font-size: 50px;
+}
+
+#color{
+    font-style: italic;
+    color: green;
+}
+
+.box{
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    margin: 10px 20px 10px 10px;
+    border: 2px solid black;
+    padding: 20px 0px 0px 20px;
+}
+
+.box2{
+    background-color: yellowgreen;
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+    padding-top: 20px;
+}
